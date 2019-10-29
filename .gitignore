@@ -1,0 +1,19 @@
+# dependencies
+node_modules/
+
+/.idea
+.project
+.classpath
+*.launch
+.settings/
+
+.DS_Store
+Thumbs.db
+*iml
+
+/*.iml
+/.idea/
+/target/
+/.classpath
+/.project
+/.settings/
